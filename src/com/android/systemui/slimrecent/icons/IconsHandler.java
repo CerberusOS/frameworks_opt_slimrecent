@@ -48,7 +48,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
-import com.aicp.gear.util.AbstractIconsHandler;
+import ru.baikalos.gear.util.AbstractIconsHandler;
 
 public class IconsHandler implements AbstractIconsHandler {
 

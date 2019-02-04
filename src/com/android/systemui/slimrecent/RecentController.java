@@ -104,7 +104,7 @@ import com.android.systemui.statusbar.phone.StatusBar;
 
 import static com.android.systemui.statusbar.phone.StatusBar.SYSTEM_DIALOG_REASON_RECENT_APPS;
 
-import com.aicp.gear.util.ImageHelper;
+import ru.baikalos.gear.util.ImageHelper;
 
 /**
  * Our main recents controller.
