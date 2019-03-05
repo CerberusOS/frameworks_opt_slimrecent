@@ -34,7 +34,7 @@ import java.lang.ref.WeakReference;
 
 import com.android.systemui.slimrecent.icons.IconsHandler;
 
-import ru.baikalos.gear.util.ImageHelper;
+import com.cerberusos.gear.util.ImageHelper;
 
 /**
  * This class handles async app icon load for the requested apps

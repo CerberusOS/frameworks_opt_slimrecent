@@ -48,10 +48,10 @@ import com.android.systemui.R;
 
 import java.util.ArrayList;
 
-import ru.baikalos.gear.util.Action;
-import ru.baikalos.gear.util.ActionConfig;
-import ru.baikalos.gear.util.ActionConstants;
-import ru.baikalos.gear.util.ActionHelper;
+import com.cerberusos.gear.util.Action;
+import com.cerberusos.gear.util.ActionConfig;
+import com.cerberusos.gear.util.ActionConstants;
+import com.cerberusos.gear.util.ActionHelper;
 
 public class AppSidebar extends FrameLayout {
     private static final String TAG = "SlimRecentAppSidebar";
